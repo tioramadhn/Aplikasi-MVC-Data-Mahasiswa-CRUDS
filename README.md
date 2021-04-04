@@ -1,7 +1,7 @@
 # Aplikasi-MVC (Data Mahasiswa) ++ CRUDS
 The MVC application is an application that applies the concept of modeling, view, control, with PHP OOP (Object Oriented Programming). In this application, we can CRUD student data into a more structured system <br><br>
 <i>Preview :</i> <br>
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/70335258/113508016-e032bb00-9577-11eb-8de6-f723b51e51f7.gif)
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/70335258/113509595-a7e3aa80-9580-11eb-8e3f-67c56b45795d.gif)
 
 How To Use it :
 - Install XAMPP, and then start it
