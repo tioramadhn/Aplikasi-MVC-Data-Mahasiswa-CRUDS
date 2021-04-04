@@ -1,5 +1,5 @@
 # Aplikasi-MVC (Data Mahasiswa) ++ CRUDS
-The MVC application is an application that applies the concept of modeling, view, control, with PHP OOP (Object Oriented Programming). In this application, we can CRUD student data into a more structured system <br>
+The MVC application is an application that applies the concept of modeling, view, control, with PHP OOP (Object Oriented Programming). In this application, we can CRUD student data into a more structured system <br><br>
 Preview : <br>
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/70335258/113508016-e032bb00-9577-11eb-8de6-f723b51e51f7.gif)
 
