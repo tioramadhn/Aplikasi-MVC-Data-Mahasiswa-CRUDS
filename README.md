@@ -9,5 +9,9 @@ How To Use it :
 - Open in browser, access http://localhost/phpmvc/public (u only can access public)
 - and automaticaly u can run this repo
 
+Technology that i use :
+- Bootsrap v5
+- jquery
+
 Good luck !  <br>
 I learn this from [Youtube](https://www.youtube.com/watch?v=tBKOb8Ib5nI&list=PLFIM0718LjIVEh_d-h5wAjsdv2W4SAtkx)
