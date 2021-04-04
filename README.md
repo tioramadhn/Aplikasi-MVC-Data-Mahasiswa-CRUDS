@@ -4,9 +4,9 @@ Preview : <br>
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/70335258/113508016-e032bb00-9577-11eb-8de6-f723b51e51f7.gif)
 
 How To Use it :
-- Install XAMPP, and then star it
-- Download this repo, and add to your htdocs in XAMPP
-- Open in browser, localhost/phpmvc/public (u only can access public)
+- Install XAMPP, and then start it
+- Download this repo, and add to your htdocs folder in XAMPP
+- Open in browser, access http://localhost/phpmvc/public (u only can access public)
 - and automaticaly u can run this repo
 
 Good luck ! 
